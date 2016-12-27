@@ -1,0 +1,14 @@
+{
+  "name": "css-mod-fixer",
+  "version": "1.0.0",
+  "description": "Adds 'body' to all mod selectors",
+  "main": "index.js",
+  "author": "feugenix",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "postcss": "^5.2.8",
+    "through2": "^2.0.3"
+  }
+}

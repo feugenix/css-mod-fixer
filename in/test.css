@@ -1,0 +1,32 @@
+.test,
+.test1__a {
+    color: red;
+    border-image: none;
+    -o-border-image: none;
+}
+
+#a .temp__b {
+    color: blue;
+}
+
+#no-class-name {
+    font: normal;
+}
+
+.long-long-log__111 {
+    color: gray;
+}
+
+@media (max-width: 600px) {
+  .test, .temp.temp__c {
+      float: left;
+  }
+
+  .facet__sidebar .trololo {
+    display: none;
+  }
+
+  .long-long-log_111 {
+      display: flex;
+  }
+}
